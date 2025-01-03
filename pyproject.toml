@@ -1,0 +1,23 @@
+[build-system]
+requires = ["setuptools>=42", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "combine_project"
+version = "0.1.0"
+description = "A utility to combine text-based files of a project into a single file."
+authors = [
+  { name = "Slovn", email = "slovnmi@gmail.com" }
+]
+license = { file = "LICENSE" }  # <-- указываем файл с лицензией
+readme = "README.md"
+requires-python = ">=3.6"
+keywords = ["combine", "utilities", "concatenate", "project"]
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent"
+]
+
+[project.scripts]
+combine-project = "combine_project.main:main"

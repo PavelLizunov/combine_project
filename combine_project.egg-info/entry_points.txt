@@ -1,0 +1,2 @@
+[console_scripts]
+combine-project = combine_project.main:main

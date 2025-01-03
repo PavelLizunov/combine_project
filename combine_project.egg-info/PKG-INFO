@@ -1,3 +1,15 @@
+Metadata-Version: 2.1
+Name: combine_project
+Version: 0.1.0
+Summary: A utility to combine text-based files of a project into a single file.
+Author-email: Slovn <slovnmi@gmail.com>
+Keywords: combine,utilities,concatenate,project
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+
 # combine_project
 
 ---

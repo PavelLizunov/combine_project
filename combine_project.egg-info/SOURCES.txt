@@ -1,0 +1,9 @@
+README.md
+pyproject.toml
+combine_project/__init__.py
+combine_project/main.py
+combine_project.egg-info/PKG-INFO
+combine_project.egg-info/SOURCES.txt
+combine_project.egg-info/dependency_links.txt
+combine_project.egg-info/entry_points.txt
+combine_project.egg-info/top_level.txt
