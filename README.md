@@ -28,7 +28,6 @@
 
 ### 1. Установка через виртуальное окружение
 
-```bash
 cd /путь/к/combine_project
 python3 -m venv venv
 source venv/bin/activate
